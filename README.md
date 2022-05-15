@@ -23,10 +23,10 @@ Step 5: Get contacts details and Display details give in MainActivity file.
 
 Step 6: Launch an emulator and run the application.
 
-## PROGRAM:
-# Program to print the text create your own content providers to get contacts details.
-# Developed by: H.Dhayanitha
-# Registeration Number : 212220230010
+# PROGRAM:
+## Program to print the text create your own content providers to get contacts details.
+## Developed by: H.Dhayanitha
+## Registeration Number : 212220230010
 
 #### Activity_main.xml
 ```
@@ -133,7 +133,6 @@ package="com.example.exp3">
 
 </manifest>
 ```
-
 ## OUTPUT:
 ![exp-03 ss1](https://user-images.githubusercontent.com/75235293/168122417-4c338a34-3533-4e5a-b598-7bd8a054c43e.jpg)
 ![exp-03  ss2](https://user-images.githubusercontent.com/75235293/168122445-7a3da35e-e521-4057-a5b9-976de99cd6f0.jpg)
